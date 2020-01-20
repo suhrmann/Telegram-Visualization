@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore IDE files of Jetbrains
+.idea/**
+
+
+
+### Charts
+# Do not add my plotted charts!
+CHARTS/**
