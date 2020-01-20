@@ -130,7 +130,7 @@ dmypy.json
 
 # Ignore IDE files of Jetbrains
 .idea/**
-
+.vscode/**
 
 
 ### Charts
